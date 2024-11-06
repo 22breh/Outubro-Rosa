@@ -1,0 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=kode+mono:wgt@400..700&display=swap');
+:root {
+    --bg-color: #921A40;
+    --primary-color: #C75B7A;
+    --secundary-color: #E3A5C7;
+    --font: "kode mono", monospace;
+}
